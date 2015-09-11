@@ -7,7 +7,7 @@ import com.predojo.app.entity.Player;
 import com.predojo.app.entity.Weapon;
 
 /**
- * PlayerTest used for validate state object.
+ * PlayerTest used to validate state object.
  * @author rodrigo.arcori - https://github.com/rodrigo-arcori
  *
  */

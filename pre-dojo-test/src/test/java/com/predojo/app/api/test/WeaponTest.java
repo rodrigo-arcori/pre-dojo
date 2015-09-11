@@ -6,7 +6,7 @@ import org.junit.Test;
 import com.predojo.app.entity.Weapon;
 
 /**
- * WeaponTest used for validate state object.
+ * WeaponTest used to validate state object.
  * @author rodrigo.arcori - https://github.com/rodrigo-arcori
  *
  */

@@ -9,7 +9,7 @@ import com.predojo.app.entity.Player;
 import com.predojo.app.entity.Weapon;
 
 /**
- * MatchTest used for validate state object.
+ * MatchTest used to validate state object.
  * @author rodrigo.arcori - https://github.com/rodrigo-arcori
  *
  */
