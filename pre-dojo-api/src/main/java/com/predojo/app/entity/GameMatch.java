@@ -11,6 +11,11 @@ import java.io.Serializable;
  */
 public final class GameMatch implements Comparable< GameMatch >, Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -6624048686423313878L;
+
 	Integer idMatch = -1;
 	
 	Player player;

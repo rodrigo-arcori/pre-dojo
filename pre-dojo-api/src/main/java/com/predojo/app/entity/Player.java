@@ -11,6 +11,11 @@ import java.io.Serializable;
  */
 public final class Player implements Serializable {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1978368991113657521L;
+
 	private String name;
 	
 	private Weapon weapon = Weapon.BAYONET;

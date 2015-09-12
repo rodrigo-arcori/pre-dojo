@@ -16,6 +16,11 @@ import java.util.Map;
  */
 public final class DataMatch implements Serializable {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 105911780328278892L;
+
 	private final static String WORLD_OUT = "<WORLD>";
 
 	Map< String, MatchResponse > index = new HashMap< String, MatchResponse >();

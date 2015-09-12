@@ -13,6 +13,11 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 public final class MatchResponse implements Serializable, Comparable< MatchResponse > {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -3024973431526484274L;
+
 	private Integer idMatch;
 	
 	private String playerName;
